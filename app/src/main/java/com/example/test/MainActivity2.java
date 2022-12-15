@@ -60,7 +60,7 @@ public class MainActivity2 extends AppCompatActivity {
                             type = "inbox";
                             break;
                         case Telephony.Sms.MESSAGE_TYPE_SENT:
-                            type = "sent";
+                            type = "sente";
                             break;
                         case Telephony.Sms.MESSAGE_TYPE_OUTBOX:
                             type = "outbox";
